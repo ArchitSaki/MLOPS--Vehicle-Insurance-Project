@@ -1,0 +1,4 @@
+itsarchitsaki_db_user
+nDzplvZKDLnEXOFa
+
+mongodb+srv://itsarchitsaki_db_user:nDzplvZKDLnEXOFa@cluster0.ju2khuw.mongodb.net/?appName=Cluster0
