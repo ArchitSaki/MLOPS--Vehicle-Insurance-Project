@@ -11,7 +11,7 @@ BACKUP_COUNT = 3
 
 log_dir_path=os.path.join(from_root(),log_dir)
 os.makedirs(log_dir_path,exist_ok=True)
-log_file_path = os.path.join(log_dir_path, LOG_FILE)
+log_file_path = os.path.join(log_dir_path, log_file)
 
 def configure_logger():
     logger=logging.getLogger()
